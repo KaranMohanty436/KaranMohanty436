@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karan Mohanty
+- 👋 Hi, I’m Karan Mohanty
 - 👀 I’m interested in hacking 
 - 🌱 I’m currently learning b-tech CST 2nd yr
 - 📫 How to reach me
